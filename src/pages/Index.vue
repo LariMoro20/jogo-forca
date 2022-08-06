@@ -107,7 +107,7 @@ export default defineComponent({
   name: "PageIndex",
   components: { Header },
   setup() {
-    const page = ref(5);
+    const page = ref(1);
     const word = ref("");
     const word_help = ref("");
     const errors = ref(0);
