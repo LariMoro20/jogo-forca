@@ -130,7 +130,7 @@ export default defineComponent({
         .toLowerCase()
         .indexOf(letter.toLowerCase());
       if (letter_position >= 0 && errors.value < 6) {
-        [...word.value].forEach((value, key) => {
+        [...word.value.toLowerCase()].forEach((value, key) => {
           if (value === letter) answer.value[key] = value;
         });
         verifyWinner();
