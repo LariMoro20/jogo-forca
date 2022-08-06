@@ -34,5 +34,6 @@ quasar serve
 ## Artes e conteúdos :star:
 
 - Logotipo criado no Figma
+- Remix Icon -> https://remixicon.com/
 
 Made with :heart: by [Larissa Santos](https://larissa-santos.vercel.app/)
