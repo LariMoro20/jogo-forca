@@ -4,7 +4,7 @@ Classico jogo da forca feito em Vuejs + Quasar
 
 Para visualizar a aplicação: https://jogoforca-larisantos.vercel.app
 
-![imagem](https://github.com/LariMoro20/jogo-forca/blob/main/screenshot.png)
+![imagem](https://github.com/LariMoro20/jogo-forca/blob/main/tela.jpg)
 
 ## Tecnologias :books:
 
