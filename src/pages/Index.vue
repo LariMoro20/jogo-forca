@@ -140,7 +140,9 @@ export default defineComponent({
     };
 
     const verifyWinner = () => {
-      word.value === answer.value.join("") ? (page.value = 5) : "";
+      word.value.toLowerCase() === answer.value.join("")
+        ? (page.value = 5)
+        : "";
     };
 
     return {
