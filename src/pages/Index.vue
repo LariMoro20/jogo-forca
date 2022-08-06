@@ -114,6 +114,7 @@ export default defineComponent({
     const answer = ref("");
 
     const startGame = () => {
+      word.value = word.value.replace(/\s/g, "");
       answer.value = Array(word.value.length).fill("_");
       page.value = 4;
     };
