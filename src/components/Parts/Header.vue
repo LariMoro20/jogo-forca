@@ -1,6 +1,7 @@
 <template>
   <div class="select__word items-center justify-center flex column">
     <img src="/images/logo.png" class="hangman__game-logo" />
+
     <p>{{ subtitle }}</p>
   </div>
 </template>
