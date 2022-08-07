@@ -36,4 +36,8 @@ quasar serve
 - Logotipo criado no Figma
 - Remix Icon -> https://remixicon.com/
 
+## Licença :page_with_curl:
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
 Made with :heart: by [Larissa Santos](https://larissa-santos.vercel.app/)
