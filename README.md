@@ -20,7 +20,7 @@ npm install
 ### Rodar a aplicação ambiente DEV:
 
 ```bash
-quasar dev
+npm run dev
 ```
 
 ### Build da aplicação em SPA
