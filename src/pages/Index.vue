@@ -1,5 +1,5 @@
 <template>
-  <q-page class="flex flex-center hangman__game" v-if="page == 1">
+  <q-page class="flex flex-center bg-white hangman__game" v-if="page == 1">
     <div class="select__word items-center justify-center flex column">
       <Header subtitle="Escolha uma palavra para começar" />
       <q-input
@@ -18,7 +18,7 @@
       />
     </div>
   </q-page>
-  <q-page class="flex flex-center hangman__game" v-if="page == 2">
+  <q-page class="flex flex-center bg-white hangman__game" v-if="page == 2">
     <div class="select__helpword items-center justify-center flex column">
       <Header subtitle="Agora, deixe uma pequena dica sobre ela" />
       <q-input
@@ -37,7 +37,7 @@
       />
     </div>
   </q-page>
-  <q-page class="flex flex-center hangman__game" v-if="page == 3">
+  <q-page class="flex flex-center bg-white hangman__game" v-if="page == 3">
     <div class="hangman__game-start items-center justify-center flex column">
       <Header subtitle="Feito, vamos ao jogo!" />
       <q-btn
@@ -48,7 +48,7 @@
       />
     </div>
   </q-page>
-  <q-page class="flex flex-center hangman__game" v-if="page == 4">
+  <q-page class="flex flex-center bg-white hangman__game" v-if="page == 4">
     <div class="hangman__game-start items-center justify-center flex column">
       <img
         class="hangman__game-image"
@@ -78,7 +78,10 @@
       />
     </div>
   </q-page>
-  <q-page class="flex flex-center hangman__game-sucess-page" v-if="page == 5">
+  <q-page
+    class="flex flex-center bg-white hangman__game-sucess-page"
+    v-if="page == 5"
+  >
     <div
       class="hangman__game-sucess q-pa-lg items-center justify-center flex column"
     >
