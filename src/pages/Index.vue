@@ -9,12 +9,20 @@
         dense
         placeholder="Digite aqui a palavra"
       />
+
       <q-btn
         :disable="!word.length"
         color="primary"
         class="q-ma-md full-width"
         label="Próximo"
         @click="page = 2"
+      />
+      Ou
+      <q-btn
+        color="primary"
+        class="q-ma-md full-width"
+        label="Uma palavra surpresa!"
+        @click="setRamdomWord()"
       />
     </div>
   </q-page>
@@ -63,7 +71,7 @@
           color="secondary"
           @click="verifyLetter(letra)"
           class="hangman__game-keyboard-key"
-          v-for="(letra, key) in 'abcçdefghijklmnopqrstuvwxyz'"
+          v-for="(letra, key) in letters_game"
           :key="key"
         >
           {{ letra }}
@@ -115,6 +123,8 @@ export default defineComponent({
     const word_help = ref("");
     const errors = ref(0);
     const answer = ref("");
+    const letters_game = ref("abcçdefghijklmnopqrstuvwxyz");
+    const letters = ref("abcçdefghijklmnopqrstuvwxyz");
 
     const startGame = () => {
       word.value = word.value.replace(/\s/g, "");
@@ -127,7 +137,17 @@ export default defineComponent({
       word_help.value = "";
       errors.value = 0;
       page.value = 1;
+      letters_game.value = letters.value;
     };
+
+    const setRamdomWord = () => {
+      word.value = "";
+      word_help.value = "";
+      errors.value = 0;
+      page.value = 1;
+    };
+
+    setRamdomWord;
 
     const verifyLetter = (letter) => {
       let letter_position = word.value
@@ -141,6 +161,7 @@ export default defineComponent({
       } else {
         errors.value < 6 ? errors.value++ : "";
       }
+      letters_game.value = letters_game.value.replace(letter, "");
     };
 
     const verifyWinner = () => {
@@ -154,8 +175,11 @@ export default defineComponent({
       word,
       word_help,
       errors,
+      letters,
+      letters_game,
       answer,
       startGame,
+      setRamdomWord,
       restartGame,
       verifyLetter,
       verifyWinner,
