@@ -1,0 +1,494 @@
+[
+  {
+    "palavra": "rio",
+    "dica": "Caminha entre as montanhas e deságua no mar."
+  },
+  {
+    "palavra": "lua",
+    "dica": "Brilha no céu à noite, refletindo a luz do sol."
+  },
+  {
+    "palavra": "sol",
+    "dica": "Fonte de calor e luz que ilumina nosso dia."
+  },
+  {
+    "palavra": "mar",
+    "dica": "Imenso corpo de água salgada que cobre grande parte do planeta."
+  },
+  {
+    "palavra": "lar",
+    "dica": "Refúgio onde nos sentimos seguros e acolhidos."
+  },
+  {
+    "palavra": "flor",
+    "dica": "Beleza colorida que cresce nas plantas."
+  },
+  {
+    "palavra": "azul",
+    "dica": "Cor do céu em um dia claro."
+  },
+  {
+    "palavra": "abelha",
+    "dica": "Inseto que produz mel e poliniza as flores."
+  },
+  {
+    "palavra": "café",
+    "dica": "Bebida quente e aromática que ajuda a despertar pela manhã."
+  },
+  {
+    "palavra": "riso",
+    "dica": "Expressão de alegria que contagia."
+  },
+  {
+    "palavra": "doce",
+    "dica": "Guloseima que agrada ao paladar."
+  },
+  {
+    "palavra": "paz",
+    "dica": "Ausência de conflito e tranquilidade."
+  },
+  {
+    "palavra": "casa",
+    "dica": "Local onde vivemos e nos sentimos em casa."
+  },
+  {
+    "palavra": "amor",
+    "dica": "Sentimento profundo de afeto e carinho."
+  },
+  {
+    "palavra": "solto",
+    "dica": "Não está preso ou amarrado."
+  },
+  {
+    "palavra": "mão",
+    "dica": "Parte do corpo humano que usamos para pegar objetos."
+  },
+  {
+    "palavra": "sapato",
+    "dica": "Calçado usado para proteger os pés."
+  },
+  {
+    "palavra": "vento",
+    "dica": "Ar em movimento, que pode ser suave ou forte."
+  },
+  {
+    "palavra": "rio",
+    "dica": "Caminha entre as montanhas e deságua no mar."
+  },
+  {
+    "palavra": "água",
+    "dica": "Substância líquida e incolor essencial para a vida."
+  },
+  {
+    "palavra": "céu",
+    "dica": "Espaço que envolve a Terra e onde vemos as estrelas."
+  },
+  {
+    "palavra": "onda",
+    "dica": "Movimento das águas, impulsionado pelo vento."
+  },
+  {
+    "palavra": "fogo",
+    "dica": "Elemento que queima e produz calor e luz."
+  },
+  {
+    "palavra": "sono",
+    "dica": "Estado de repouso em que dormimos."
+  },
+  {
+    "palavra": "rato",
+    "dica": "Pequeno roedor que vive em esgotos e lugares escuros."
+  },
+  {
+    "palavra": "amigo",
+    "dica": "Pessoa querida com quem compartilhamos momentos felizes."
+  },
+  {
+    "palavra": "chuva",
+    "dica": "Água que cai do céu em forma de gotas."
+  },
+  {
+    "palavra": "neve",
+    "dica": "Cristais de gelo que caem do céu em lugares frios."
+  },
+  {
+    "palavra": "sol",
+    "dica": "Fonte de calor e luz que ilumina nosso dia."
+  },
+  {
+    "palavra": "gato",
+    "dica": "Animal de estimação, conhecido por sua agilidade."
+  },
+  {
+    "palavra": "cão",
+    "dica": "Melhor amigo do homem, animal de estimação fiel."
+  },
+  {
+    "palavra": "pão",
+    "dica": "Alimento feito de farinha, água, sal e fermento."
+  },
+  {
+    "palavra": "leão",
+    "dica": "Grande felino conhecido por sua juba."
+  },
+  {
+    "palavra": "bola",
+    "dica": "Objeto redondo usado em vários esportes."
+  },
+  {
+    "palavra": "branco",
+    "dica": "Cor que representa a união de todas as cores."
+  },
+  {
+    "palavra": "verde",
+    "dica": "Cor da natureza, das folhas das árvores."
+  },
+  {
+    "palavra": "azul",
+    "dica": "Cor do céu em um dia claro."
+  },
+  {
+    "palavra": "vermelho",
+    "dica": "Cor quente, associada ao amor e à paixão."
+  },
+  {
+    "palavra": "preto",
+    "dica": "Cor que representa a ausência de luz."
+  },
+  {
+    "palavra": "laranja",
+    "dica": "Cor vibrante, como a fruta de mesmo nome."
+  },
+  {
+    "palavra": "roxo",
+    "dica": "Cor que combina vermelho e azul."
+  },
+  {
+    "palavra": "amarelo",
+    "dica": "Cor associada ao sol e à alegria."
+  },
+  {
+    "palavra": "rosa",
+    "dica": "Cor delicada, frequentemente associada às flores."
+  },
+  {
+    "palavra": "doce",
+    "dica": "Guloseima que agrada ao paladar."
+  },
+  {
+    "palavra": "salgado",
+    "dica": "Sabor que geralmente provém do sal."
+  },
+  {
+    "palavra": "azedo",
+    "dica": "Sabor ácido ou azedo, como limão ou vinagre."
+  },
+  {
+    "palavra": "amargo",
+    "dica": "Sabor forte e desagradável, como café puro."
+  },
+  {
+    "palavra": "quente",
+    "dica": "Temperatura alta, oposta a frio."
+  },
+  {
+    "palavra": "frio",
+    "dica": "Temperatura baixa, oposta a quente."
+  },
+  {
+    "palavra": "morno",
+    "dica": "Temperatura intermediária entre quente e frio."
+  },
+  {
+    "palavra": "calor",
+    "dica": "Sensação de alta temperatura."
+  },
+  {
+    "palavra": "gelo",
+    "dica": "Água congelada, sólida."
+  },
+  {
+    "palavra": "inverno",
+    "dica": "Estação mais fria do ano."
+  },
+  {
+    "palavra": "verão",
+    "dica": "Estação mais quente do ano."
+  },
+  {
+    "palavra": "outono",
+    "dica": "Estação do ano em que as folhas caem das árvores."
+  },
+  {
+    "palavra": "primavera",
+    "dica": "Estação do ano em que a natureza floresce."
+  },
+  {
+    "palavra": "solto",
+    "dica": "Não está preso ou amarrado."
+  },
+  {
+    "palavra": "preso",
+    "dica": "Retido ou impedido de se mover livremente."
+  },
+  {
+    "palavra": "velho",
+    "dica": "Que tem muitos anos de idade."
+  },
+  {
+    "palavra": "novo",
+    "dica": "Que foi recentemente criado ou adquirido."
+  },
+  {
+    "palavra": "alto",
+    "dica": "Que tem grande estatura vertical."
+  },
+  {
+    "palavra": "baixo",
+    "dica": "Que tem pouca estatura vertical."
+  },
+  {
+    "palavra": "ampla",
+    "dica": "Que tem grande largura ou espaço."
+  },
+  {
+    "palavra": "estreito",
+    "dica": "Que tem pequena largura ou espaço."
+  },
+  {
+    "palavra": "longo",
+    "dica": "Que tem grande extensão."
+  },
+  {
+    "palavra": "curto",
+    "dica": "Que tem pequena extensão."
+  },
+  {
+    "palavra": "bom",
+    "dica": "Que é agradável ou positivo."
+  },
+  {
+    "palavra": "mau",
+    "dica": "Que é desagradável ou negativo."
+  },
+  {
+    "palavra": "bonito",
+    "dica": "Que é agradável aos olhos."
+  },
+  {
+    "palavra": "feio",
+    "dica": "Que não é agradável aos olhos."
+  },
+  {
+    "palavra": "feliz",
+    "dica": "Que experimenta alegria e satisfação."
+  },
+  {
+    "palavra": "triste",
+    "dica": "Que experimenta infelicidade ou desânimo."
+  },
+  {
+    "palavra": "fácil",
+    "dica": "Que é simples de realizar ou compreender."
+  },
+  {
+    "palavra": "difícil",
+    "dica": "Que é complicado ou exige esforço para realizar."
+  },
+  {
+    "palavra": "riso",
+    "dica": "Expressão de alegria que contagia."
+  },
+  {
+    "palavra": "choro",
+    "dica": "Expressão de tristeza com lágrimas."
+  },
+  {
+    "palavra": "correr",
+    "dica": "Deslocar-se rapidamente usando as pernas."
+  },
+  {
+    "palavra": "pular",
+    "dica": "Saltar com os pés juntos ou um de cada vez."
+  },
+  {
+    "palavra": "dançar",
+    "dica": "Movimentar o corpo em ritmo de música."
+  },
+  {
+    "palavra": "cantar",
+    "dica": "Produzir sons musicais com a voz."
+  },
+  {
+    "palavra": "comer",
+    "dica": "Ingerir alimentos para nutrição."
+  },
+  {
+    "palavra": "beber",
+    "dica": "Ingerir líquidos, como água ou sucos."
+  },
+  {
+    "palavra": "dormir",
+    "dica": "Descansar e repor as energias em um estado de sono."
+  },
+  {
+    "palavra": "andar",
+    "dica": "Movimentar-se, caminhar."
+  },
+  {
+    "palavra": "ver",
+    "dica": "Perceber imagens com os olhos."
+  },
+  {
+    "palavra": "ouvir",
+    "dica": "Perceber sons com os ouvidos."
+  },
+  {
+    "palavra": "sentir",
+    "dica": "Perceber sensações, como toque ou cheiro."
+  },
+  {
+    "palavra": "falar",
+    "dica": "Comunicar-se através da voz."
+  },
+  {
+    "palavra": "escrever",
+    "dica": "Representar palavras e ideias por meio de letras e símbolos."
+  },
+  {
+    "palavra": "sorrir",
+    "dica": "Fazer um sorriso, expressão de alegria."
+  },
+  {
+    "palavra": "nadar",
+    "dica": "Movimentar-se na água, usando braços e pernas."
+  },
+  {
+    "palavra": "jogar",
+    "dica": "Participar de jogos ou atividades lúdicas."
+  },
+  {
+    "palavra": "voar",
+    "dica": "Mover-se pelo ar, como aves ou aviões."
+  },
+  {
+    "palavra": "sair",
+    "dica": "Deixar um lugar ou uma situação."
+  },
+  {
+    "palavra": "entrar",
+    "dica": "Ir para dentro de um lugar ou uma situação."
+  },
+  {
+    "palavra": "sorrir",
+    "dica": "Fazer um sorriso, expressão de alegria."
+  },
+  {
+    "palavra": "sentar",
+    "dica": "Apoiar o corpo em uma superfície para descansar."
+  },
+  {
+    "palavra": "levantar",
+    "dica": "Elevar o corpo de uma posição sentada ou deitada."
+  },
+  {
+    "palavra": "correr",
+    "dica": "Deslocar-se rapidamente usando as pernas."
+  },
+  {
+    "palavra": "cair",
+    "dica": "Perder o equilíbrio e ir ao chão."
+  },
+  {
+    "palavra": "rastejar",
+    "dica": "Andar de bruços ou com o corpo próximo ao chão."
+  },
+  {
+    "palavra": "subir",
+    "dica": "Ir para cima, em direção a um lugar mais alto."
+  },
+  {
+    "palavra": "descer",
+    "dica": "Ir para baixo, em direção a um lugar mais baixo."
+  },
+  {
+    "palavra": "pular",
+    "dica": "Saltar com os pés juntos ou um de cada vez."
+  },
+  {
+    "palavra": "caçar",
+    "dica": "Perseguir e capturar animais para alimento ou esporte."
+  },
+  {
+    "palavra": "brincar",
+    "dica": "Participar de atividades lúdicas e divertidas."
+  },
+  {
+    "palavra": "correr",
+    "dica": "Deslocar-se rapidamente usando as pernas."
+  },
+  {
+    "palavra": "pular",
+    "dica": "Saltar com os pés juntos ou um de cada vez."
+  },
+  {
+    "palavra": "cantar",
+    "dica": "Produzir sons musicais com a voz."
+  },
+  {
+    "palavra": "dançar",
+    "dica": "Movimentar o corpo em ritmo de música."
+  },
+  {
+    "palavra": "dormir",
+    "dica": "Descansar e repor as energias em um estado de sono."
+  },
+  {
+    "palavra": "estudar",
+    "dica": "Dedicar-se ao aprendizado e à obtenção de conhecimento."
+  },
+  {
+    "palavra": "trabalhar",
+    "dica": "Exercer uma atividade laboral para ganhar a vida."
+  },
+  {
+    "palavra": "descansar",
+    "dica": "Recuperar as energias e relaxar."
+  },
+  {
+    "palavra": "viajar",
+    "dica": "Fazer uma jornada ou passeio para outro lugar."
+  },
+  {
+    "palavra": "caminhar",
+    "dica": "Andar de forma tranquila e sem pressa."
+  },
+  {
+    "palavra": "viajar",
+    "dica": "Fazer uma jornada ou passeio para outro lugar."
+  },
+  {
+    "palavra": "aprender",
+    "dica": "Adquirir conhecimento e habilidades por meio do estudo ou da experiência."
+  },
+  {
+    "palavra": "ensinar",
+    "dica": "Compartilhar conhecimento e instruir outras pessoas."
+  },
+  {
+    "palavra": "comer",
+    "dica": "Ingerir alimentos para nutrição."
+  },
+  {
+    "palavra": "beber",
+    "dica": "Ingerir líquidos, como água ou sucos."
+  },
+  {
+    "palavra": "dormir",
+    "dica": "Descansar e repor as energias em um estado de sono."
+  },
+  {
+    "palavra": "amar",
+    "dica": "Sentir um profundo afeto por alguém ou algo."
+  }
+]

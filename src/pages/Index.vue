@@ -118,6 +118,7 @@ export default defineComponent({
   name: "PageIndex",
   components: { Header },
   setup() {
+    const jsonData = require("../assets/words.json");
     const page = ref(1);
     const word = ref("");
     const word_help = ref("");
@@ -141,13 +142,12 @@ export default defineComponent({
     };
 
     const setRamdomWord = () => {
-      word.value = "";
-      word_help.value = "";
-      errors.value = 0;
-      page.value = 1;
+      let allWords = JSON.parse(JSON.stringify(jsonData));
+      const random = Math.floor(Math.random() * allWords.length);
+      word.value = allWords[random].palavra;
+      word_help.value = allWords[random].dica;
+      page.value = 3;
     };
-
-    setRamdomWord;
 
     const verifyLetter = (letter) => {
       let letter_position = word.value
@@ -171,6 +171,7 @@ export default defineComponent({
     };
 
     return {
+      jsonData,
       page,
       word,
       word_help,
